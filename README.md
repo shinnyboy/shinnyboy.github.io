@@ -1,4 +1,4 @@
-## Welcome to SB Pages
+## Welcome to shinnyboy Pages
 
 You can use the [editor on GitHub](https://github.com/shinnyboy/shinnyboy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
